@@ -1,3 +1,4 @@
-Name : Azeem
-Class : B.sc
-Stream : Computer science 
+Name       : Azeem
+Class      : B.sc(Bachlor Of Science)
+Stream     : Computer science 
+Sub-Stream : Cloud Computing
